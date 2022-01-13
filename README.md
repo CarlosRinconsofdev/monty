@@ -9,17 +9,13 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 ``` 
 julien@ubuntu:~/monty$ cat -e bytecodes/000.m
 push 0$
-
 push 1$
-
 push 2$
  push 3$
                    pall    $
-
 push 4$
     push 5    $
       push    6        $
-
 pall$
 julien@ubuntu:~/monty$
 ```
